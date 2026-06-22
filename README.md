@@ -1,11 +1,11 @@
 # 📦 Product Case Studies
 
 <p align="center">
-Analyzing digital products through the lens of Product Thinking, User Experience, Business Strategy, and System Design.
+Analyzing digital products through the lens of <strong>Product Thinking</strong>, <strong>User Experience</strong>, <strong>Business Strategy</strong>, and <strong>System Design</strong>.
 </p>
 
 <p align="center">
-This repository documents my observations and structured analyses of real-world digital products, exploring why they exist, how they shape user behavior, and how they create business value.
+This repository documents my structured analyses of real-world digital products, exploring why they exist, how they shape user behavior, and how they create business value.
 </p>
 
 ---
@@ -14,38 +14,64 @@ This repository documents my observations and structured analyses of real-world 
 
 Welcome to my **Product Case Studies** repository.
 
-Here, I document my observations and analyses of digital products that I use in everyday life.
+Here, I document observations and structured analyses of digital products that I use in everyday life.
 
-Rather than reviewing features alone, I focus on understanding the decisions behind a product—why it was built, how it serves users, and how it supports business objectives.
+Rather than reviewing features alone, I focus on understanding the reasoning behind a product—why it was built, how it serves users, how it supports business objectives, and how it can be improved.
 
-Each case study is an opportunity to strengthen my product thinking while learning from real-world systems.
+Each case study strengthens my product thinking while helping me learn from real-world systems.
 
 ---
 
-# 🧠 My Product Thinking Framework
+# 🧠 Build. Observe. Improve. Framework
 
-Every case study explores products from multiple perspectives:
+Every case study follows a consistent framework to ensure structured thinking and meaningful analysis.
 
-* Product Vision & Purpose
-* User Problems
-* Target Users
-* User Experience (UX)
-* Product Decisions
-* Business Strategy
-* User Behavior
-* Opportunities for Improvement
-* Key Learnings
+### 📌 Product Overview
+
+Understanding what the product is, its purpose, and the problem it aims to solve.
+
+### 👥 Target Users
+
+Identifying the intended audience and understanding their needs.
+
+### 📸 Screenshots
+
+Capturing key interfaces and user flows used throughout the analysis.
+
+### 🗺️ User Journey
+
+Walking through the complete user experience from start to finish.
+
+### 😊 What Works Well
+
+Highlighting strengths in usability, design, features, and overall experience.
+
+### ⚠️ Pain Points
+
+Identifying usability issues, friction points, inconsistencies, or missing opportunities.
+
+### 💡 Improvement Ideas
+
+Suggesting practical product and UX improvements with clear reasoning.
+
+### 📊 Business Impact
+
+Understanding how product decisions influence engagement, retention, monetization, or business goals.
+
+### 🎯 Product Takeaways
+
+Summarizing the key lessons, product insights, and learnings from the analysis.
 
 ---
 
 # 📂 Case Studies
 
-| Product             | Category         | Status         |
-| ------------------- | ---------------- | -------------- |
-| YouTube Playables   | Product Strategy | ✅ Published    |
-| NMRC Website        | UX Review        | ✅ Published    |
-| Smash Karts         | Product Analysis | 🚧 In Progress |
-| More Coming Soon... | —                | ⏳              |
+| Product              | Focus            | Status         |
+| -------------------- | ---------------- | -------------- |
+| 🎮 YouTube Playables | Product Strategy | ✅ Published    |
+| 🚇 NMRC Website      | UX Evaluation    | ✅ Published    |
+| 🏎️ Smash Karts      | Product Analysis | 🚧 In Progress |
+| ➕ More Coming Soon   | —                | ⏳              |
 
 ---
 
@@ -65,24 +91,26 @@ This repository primarily explores:
 
 # 📌 Why This Repository?
 
-I believe the best way to learn Product Management is by observing, questioning, and documenting real products.
+I believe the best way to learn Product Management is by observing, questioning, analyzing, and documenting real products.
 
 Every case study helps me:
 
-* Think more like a Product Manager.
+* Develop stronger product intuition.
 * Connect technology with business goals.
-* Understand user behavior.
-* Improve my decision-making framework.
-* Learn through structured observation.
+* Understand user behavior and decision-making.
+* Practice structured product analysis.
+* Learn through observation and continuous improvement.
 
 ---
 
-# 🚀 Long-Term Goal
+# 🚀 Long-Term Vision
 
-This repository is my public learning journal.
+This repository is my public learning journal and product portfolio.
 
-As I continue building my career in Product Management, I aim to develop a collection of thoughtful, evidence-based product analyses that reflect both my growth and my way of thinking.
+As I continue building my career in Product Management, I aim to create a collection of thoughtful, evidence-based case studies that demonstrate not only what I observe—but how I think.
 
 ---
 
-> **Build. Observe. Improve.**
+<p align="center">
+<b>Build. Observe. Improve.</b>
+</p>
