@@ -1,34 +1,121 @@
 # 📦 Product Case Studies
 
----
+## 👋 Welcome
 
-# 👋 Welcome
+Welcome to my Product Case Studies repository.
 
-Welcome to my **Product Case Studies** repository.
+This repository is my public learning journal and Product Management portfolio, where I analyze digital products that I use in everyday life.
 
-Here, I document structured analyses of digital products that I use in everyday life.
+Rather than reviewing features alone, I focus on understanding the reasoning behind a product:
 
-Rather than reviewing features alone, I focus on understanding the reasoning behind a product—why it was built, how it serves users, how it supports business objectives, and how it can be improved.
+* Why was it built?
+* Who is it built for?
+* What user problem does it solve?
+* How does it support business objectives?
+* Where does the experience create friction?
+* How can it be improved?
 
-Each case study helps me strengthen my product thinking while learning from real-world systems.
+Every case study helps me develop stronger product intuition by connecting user needs, business strategy, and product execution.
 
 ---
 
 # 🧠 BOI Framework (Build • Observe • Improve)
 
-Every case study follows a structured framework to ensure consistency, depth, and meaningful analysis.
+Every case study follows my **BOI Framework**, a structured methodology that helps me think like a Product Manager rather than simply reviewing an app.
 
-The objective is not only to identify problems, but also to understand the reasoning behind product decisions and propose practical improvements.
+Instead of immediately suggesting improvements, I first understand why a product exists, observe how it performs in the real world, and then propose thoughtful, evidence-based recommendations.
+
+## 🏗️ BUILD
+
+Understand the product before judging it.
+
+This phase focuses on thinking like the product team.
+
+Questions explored include:
+
+* Why does this product exist?
+* What problem does it solve?
+* Who are the target users?
+* What business goals does it support?
+* Why were certain product decisions made?
+* How might success be measured?
+
+The objective is to understand the reasoning behind the product before evaluating it.
+
+---
+
+## 👀 OBSERVE
+
+Experience the product as a real user.
+
+This phase documents the complete user journey while identifying strengths, friction points, and notable product decisions.
+
+The focus is on observations rather than assumptions.
+
+This includes:
+
+* User Journey
+* Navigation
+* Feature Discovery
+* Interface Design
+* User Experience
+* Pain Points
+* Screenshots
+* Interesting Product Decisions
+
+Every observation is supported with evidence whenever possible.
+
+---
+
+## 💡 IMPROVE
+
+Think like the Product Manager responsible for the next release.
+
+Based on the observations, I propose practical improvements that balance:
+
+* User Needs
+* Business Goals
+* Product Strategy
+* UX Principles
+* Technical Feasibility
+
+Each recommendation considers both its benefits and potential trade-offs rather than suggesting features without justification.
+
+---
+
+# 🔄 The BOI Process
+
+Every case study follows the same thinking process.
+
+```
+BUILD
+↓
+Understand the Product
+
+↓
+
+OBSERVE
+↓
+Experience the Product
+
+↓
+
+IMPROVE
+↓
+Recommend Better Solutions
+```
+
+This ensures every analysis is structured, consistent, and focused on product thinking.
 
 ---
 
 # 📝 What You'll Find in Every Case Study
 
-Every case study follows the same structure.
+Each case study follows a consistent structure.
 
 ## 📌 Executive Summary
 
-A quick overview for readers who want the key insights at a glance.
+A quick overview of the product.
 
 * Product
 * Biggest Strength
@@ -38,36 +125,51 @@ A quick overview for readers who want the key insights at a glance.
 
 ---
 
-## 📌 Product Overview
+## 🏗️ BUILD
+
+### Product Overview
 
 * What is the product?
-* What problem does it solve?
 * Why does it exist?
+* What problem does it solve?
 
----
-
-## 👥 Target Users
+### Target Users
 
 * Who is the product built for?
 * What user needs does it address?
 
+### Business Goals
+
+* What objectives might the company be trying to achieve?
+
+### Success Metrics
+
+Possible metrics that indicate whether the product is successful.
+
+Examples include:
+
+* User Engagement
+* Retention
+* Activation
+* Revenue
+* Conversion
+* Session Duration
+
 ---
 
-## 📸 Screenshots
+## 👀 OBSERVE
 
-Visual references of important screens, interactions, and features discussed throughout the analysis.
+### User Journey
 
----
+A complete walkthrough of the user experience from entry to task completion.
 
-## 🗺️ User Journey
+### Screenshots
 
-A walkthrough of the complete user experience, highlighting important touchpoints from entry to task completion.
+Visual evidence supporting observations throughout the analysis.
 
----
+### What Works Well
 
-## 😊 What Works Well
-
-An analysis of the product's strengths, including:
+Analysis of strengths including:
 
 * User Experience
 * Interface Design
@@ -75,9 +177,7 @@ An analysis of the product's strengths, including:
 * Feature Implementation
 * Overall Experience
 
----
-
-## ⚠️ Pain Points
+### Pain Points
 
 Identification of:
 
@@ -87,34 +187,42 @@ Identification of:
 * Missing Features
 * Opportunities for Improvement
 
+### Interesting Product Decisions
+
+Not every product decision is simply good or bad.
+
+This section highlights design choices that are interesting from a Product Management perspective and explores why they may have been made.
+
 ---
 
-## 💡 Improvement Ideas
+## 💡 IMPROVE
+
+### Improvement Ideas
 
 Practical recommendations supported by:
 
 * Product Thinking
 * UX Principles
-* Business Considerations
 * User Needs
+* Business Considerations
 
----
+### Business Impact
 
-## 📊 Business Impact
-
-Understanding how product decisions influence:
+How the proposed improvements could influence:
 
 * User Engagement
-* User Retention
-* Monetization
+* Retention
 * Customer Satisfaction
+* Monetization
 * Business Objectives
 
----
+### Prioritization
 
-## 🎯 Product Takeaways
+Recommendations are prioritized based on expected impact and implementation effort.
 
-Key lessons and insights gained from the analysis, including product principles that can be applied to future product decisions.
+### Product Takeaways
+
+Key lessons learned from the analysis and how those insights can be applied to future product decisions.
 
 ---
 
@@ -122,8 +230,8 @@ Key lessons and insights gained from the analysis, including product principles 
 
 | Product              | Focus            | Status         |
 | -------------------- | ---------------- | -------------- |
-| 🎮 YouTube Playables | Product Strategy | ✅ Published    |
-| 🚇 NMRC Website      | UX Evaluation    | ✅ Published    |
+| 🎮 YouTube Playables | Product Strategy | 🚧 Coming Soon |
+| 🚇 NMRC Website      | UX Evaluation    | 🚧 Coming Soon |
 | 🏎️ Smash Karts      | Product Analysis | 🚧 In Progress |
 | ➕ More Coming Soon   | —                | ⏳              |
 
@@ -131,7 +239,7 @@ Key lessons and insights gained from the analysis, including product principles 
 
 # 🎯 Areas of Focus
 
-This repository primarily explores:
+This repository explores topics across Product Management, including:
 
 * 📦 Product Management
 * 🧠 Product Thinking
@@ -140,6 +248,8 @@ This repository primarily explores:
 * 💰 Business Models
 * 🎯 User Behavior
 * 🔄 System Design
+* 📊 Product Metrics
+* 🚀 Product Strategy
 
 ---
 
@@ -153,14 +263,17 @@ Every case study helps me:
 * Connect technology with business goals.
 * Understand user behavior and decision-making.
 * Practice structured product analysis.
-* Learn through observation and continuous improvement.
+* Learn from real-world products.
+* Improve my ability to make evidence-based product decisions.
 
 ---
 
 # 🚀 Long-Term Vision
 
-This repository serves as my public learning journal and Product Management portfolio.
+This repository is more than a collection of product reviews.
 
-As I continue building my career, I aim to create a collection of thoughtful, evidence-based case studies that demonstrate not only **what I observe**, but **how I think**.
+It is a portfolio that showcases how I think about products.
 
----
+Through every case study, I aim to demonstrate a repeatable approach to understanding products, identifying opportunities, and proposing improvements grounded in both user needs and business outcomes.
+
+As I continue learning Product Management, this repository will grow into a collection of thoughtful, evidence-based analyses that reflect not only what I observe, but how I think.
